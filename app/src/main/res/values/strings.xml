@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exchange-o-gram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="post">Post</string>
+    <string name="Take_Picture">Take a Picture</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="compose_button">Compose</string>
+    <string name="search_button">Search</string>
+</resources>
